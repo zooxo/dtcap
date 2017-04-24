@@ -33,7 +33,7 @@ And some other keys:
 * ?: Help
 
 ## How do I set the default music library?
-To set the audio directory DTCAP starts with ... edit DTCAP and search for the line that starts with '# audio_dir="/"', uncomment it and expand "/" to the path of your music library.
+To set the default audio directory, edit DTCAP and search for the line that starts with '# audio_dir="/"', uncomment it and expand "/" to the path of your music library.
 
 ## How do I set the equalizer?
-Setting the equalizer is not yet implemented. So far you can edit DTCAP, search for the eqaulizer section and set and name a profile for the 10-band-equalizer. Then assign this profile to deck A and/or deck B. See the existing examples in DTCAP.
+Setting the equalizer while running is not yet implemented. So far you can edit DTCAP, search for the equalizer section and set and name a profile for the 10-band-equalizer. Then assign this profile to deck A and/or deck B. See the existing examples in DTCAP.
