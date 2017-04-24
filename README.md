@@ -13,7 +13,7 @@ If you want to operate with high readability in a minimal sized window try somet
 ![dtcap](https://cloud.githubusercontent.com/assets/16148023/25332135/bc49337a-28e5-11e7-8fa4-fd3b4c96e1c0.jpg)
 
 ## Which features has DTCAP?
-* Two music decks loadable from a file browser.
+* Two music decks loadable from a inbuilt file browser.
 * Every deck is capable of play (progress), stop, pause, volume control, forward, rewind and looping.
 * An audio master with fader (left/right) and volume control.
 * AutoDJ: Plays files of a directory random on deck A.
