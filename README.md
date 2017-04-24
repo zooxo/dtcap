@@ -9,7 +9,8 @@ If you have a linux system with a running bash ... install the MPV media player 
 
 ## Are there any screenshots of DTCAP?
 
-![ARC circuit diagram](https://cloud.githubusercontent.com/assets/16148023/18578474/65d0e99a-7bf0-11e6-9758-1d2680048e55.png "circuit")
+![dtcap](https://cloud.githubusercontent.com/assets/16148023/25332135/bc49337a-28e5-11e7-8fa4-fd3b4c96e1c0.jpg)
+
 
 ## How do I set the default music library?
 To set the audio directory DTCAP starts with ... edit DTCAP and search for the line that starts with '# audio_dir="/"', uncomment it and expand "/" to the path of your music library.
