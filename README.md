@@ -6,6 +6,7 @@ DTCAP is actually a large bash script to offer a text user interface to simulate
 
 ## How do I run DTCAP
 If you have a linux system with a running bash ... install the MPV media player (i.e. with 'apt-get install mpv'). Then copy DTCAP to a place of your executeable path (i.e. /usr/local/bin) and start DTCAP in a console with 'dtcap'.
+If you want to operate with high readability in a minimal sized window try something like 'xterm -fn terminus-32 -geometry 59x12 -bg black -fg white -e dtcap'.
 
 ## Are there any screenshots of DTCAP?
 
