@@ -27,10 +27,10 @@ In principle you are free to edit DTCAP and assign your own key to the appropria
 * SPACE, UP, ENTER, LEFT, DOWN, RIGHT: File browser (load_A, up, load_B, page_up, down, page_down
 
 And some other keys:
-* /-<: One directory up
+* / - <: One directory up
 * TAB BACKSPACE: Refresh display (sometimes needed)
-* 56: Set loop for deck A or B
-* P03: AutoDJ on deck A
+* 5 6: Set loop for deck A or B
+* P 0 3: AutoDJ on deck A
 * X ESC: Exit
 * ?: Help
 
