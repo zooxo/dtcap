@@ -4,7 +4,7 @@
 MPV is currently one of the best media players for linux. As it is mainly controlled by a console there is no inherent (graphical) user interface. DTCAP is actually a large BASH script to offer a simple, fast and powerful text user interface to simulate two audio (DJ) decks with MPV. So far DTCAP works on every linux system that offers a BASH shell and runs the MPV media player.
 
 ## How do I run DTCAP?
-If you have a linux system with a running bash ... install the MPV media player (i.e. with 'apt-get install mpv'). Then copy DTCAP to a place of your executeable path (i.e. /usr/local/bin) and start DTCAP in a console with 'dtcap'. If you want to operate with high readability in a minimal sized window try something like 'xterm -fn terminus-32 -geometry 59x12 -bg black -fg white -e dtcap'.
+If you have a linux system with a running BASH ... install the MPV media player (i.e. with 'apt-get install mpv'). Then copy DTCAP to a place of your executeable path (i.e. /usr/local/bin) and start DTCAP in a console with 'dtcap'. If you want to operate with high readability in a minimal sized window try something like 'xterm -fn terminus-32 -geometry 59x12 -bg black -fg white -e dtcap'.
 
 ## Are there any screenshots of DTCAP?
 
