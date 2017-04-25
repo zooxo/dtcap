@@ -19,10 +19,10 @@ If you have a linux system with a running bash ... install the MPV media player 
 
 ## With which keys can I control DTCAP?
 In principle you are free to edit DTCAP and assign your own key to the appropriate case-statement. The default assignment works with four cursor key areas:
-* QWEASD: Control deck A (pause, vol+, play/stop, fwd, vol-, rew)
-* RTYFGH: Control the master (play_A, vol+, play_B, fade_left, vol-, fade_right)
-* UIOJKL: Control deck B (pause, vol+, play/stop, fwd, vol-, rew)
-* SPACE, UP, ENTER, LEFT, DOWN, RIGHT: File browser (load_A, up, load_B, page_up, down, page_down)
+* Q W E A S D: Control deck A (pause, vol+, play/stop, fwd, vol-, rew)
+* R T Y F G H: Control the master (play_A, vol+, play_B, fade_left, vol-, fade_right)
+* U I O J K L: Control deck B (pause, vol+, play/stop, fwd, vol-, rew)
+* SPACE UP ENTER LEFT DOWN RIGHT: File browser (load_A, up, load_B, page_up, down, page_down)
 
 And some other keys:
 * / - <: One directory up
